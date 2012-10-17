@@ -12,11 +12,20 @@ _ReSharper.*
 *.trx
 TestResults
 
+# C++ / Visual Studio
+Debug
+Release
+ipch
+*.sbr
+*.log
+*.sdf
+
 
 # java specific
 *.class
 build/
 dist/
+
 
 # netbeans ignore personal stuff
 nbproject/private/
